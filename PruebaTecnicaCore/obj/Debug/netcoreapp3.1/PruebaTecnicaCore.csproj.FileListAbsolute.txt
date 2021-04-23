@@ -1,0 +1,9 @@
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\bin\Debug\netcoreapp3.1\PruebaTecnicaCore.deps.json
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\bin\Debug\netcoreapp3.1\PruebaTecnicaCore.dll
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\bin\Debug\netcoreapp3.1\PruebaTecnicaCore.pdb
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\obj\Debug\netcoreapp3.1\PruebaTecnicaCore.csprojAssemblyReference.cache
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\obj\Debug\netcoreapp3.1\PruebaTecnicaCore.AssemblyInfoInputs.cache
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\obj\Debug\netcoreapp3.1\PruebaTecnicaCore.AssemblyInfo.cs
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\obj\Debug\netcoreapp3.1\PruebaTecnicaCore.csproj.CoreCompileInputs.cache
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\obj\Debug\netcoreapp3.1\PruebaTecnicaCore.dll
+D:\Documentos\PruebaTecnicaCarvajal\PruebaTecnica\PruebaTecnicaCore\obj\Debug\netcoreapp3.1\PruebaTecnicaCore.pdb

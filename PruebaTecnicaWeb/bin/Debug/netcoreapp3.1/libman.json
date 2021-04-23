@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "devextreme-aspnet-data@2.8.2",
+      "destination": "wwwroot/lib/devextreme-aspnet-data/"
+    },
+    {
+      "library": "devextreme@20.2.6",
+      "destination": "wwwroot/lib/devextreme/"
+    }
+  ]
+}
